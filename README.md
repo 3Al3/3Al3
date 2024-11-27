@@ -1,34 +1,64 @@
+# ¡Hola, soy Manuel Alejandro! 👋
 
-# ¡Hola, soy Manuel Mejías👋
+Soy un desarrollador apasionado por el _desarrollo web_. Actualmente, estoy aprendiendo nuevos lenguajes como _Golang_.
 
-Soy un programador apasionado por la tecnología con experiencia en varios lenguajes de programación y tecnologías. A lo largo de mis estudios y proyectos personales, he tenido la oportunidad de desarrollar habilidades en desarrollo web, programación orientada a objetos, y automatización de procesos.
+## 🚀 Acerca de mí:
+- 💻 Trabajo principalmente con Django.
 
-## Tecnologías que uso:
-- JavaScript
-- Python
-- Django
-- WagtailCMS
-- Docker
+## 🛠 Tecnologías y Herramientas:
+Aquí te dejo las tecnologías y herramientas con las que trabajo, organizadas en categorías:
 
+### Frontend:
+- 💻 **HTML**, **CSS**, **JavaScript**
+### Backend:
+- 🔙 **Django**
 
-## Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=3Al3&show_icons=true&hide_title=true)
+### Bases de Datos:
+- 🗄️ **MongoDB**, **PostgreSQL**, **MySQL**
 
-## Encuéntrame en:
-- [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-mej%C3%ADas-puebla-175005283/)
+### DevOps:
+- 🚀 **Docker**
 
+### Otros:
+- 🤖 **Machine Learning**, **AI**, **TensorFlow**
 
-<!--
-**3Al3/3Al3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Proyectos Destacados:
+Aquí te muestro algunos de mis proyectos más interesantes que puedes revisar y en los que puedes colaborar:
 
-Here are some ideas to get you started:
+- **[Nombre del Proyecto 1](enlace)**: Descripción breve de lo que hace el proyecto.  
+  - **Tecnologías**: [React](https://reactjs.org/), [Node.js](https://nodejs.org/).
+  - **Estado**: Activo / En desarrollo.
+  - **Contribuir**: [Instrucciones para contribuir](link).
+  
+- **[Nombre del Proyecto 2](enlace)**: Descripción breve del proyecto y qué lo hace especial.  
+  - **Tecnologías**: [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/).
+  - **Estado**: Completo / En producción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Nombre del Proyecto 3](enlace)**: Una pequeña descripción.  
+  - **Tecnologías**: [Vue.js](https://vuejs.org/), [Firebase](https://firebase.google.com/).
+  - **Estado**: Activo / En desarrollo.
+  - **Contribuir**: [Cómo contribuir](link).
+
+### 🔥 Últimas Actividades en GitHub:
+(¡Este es un resumen visual de tu actividad!)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=3Al3&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+### 📊 Lenguajes que más uso:
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=3Al3&layout=compact&theme=radical)
+
+## 🔥 Contribuciones Recientes:
+Aquí puedes ver las contribuciones recientes que he realizado a proyectos de código abierto o mis propios proyectos.
+
+![Actividad en GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=3Al3&theme=github)
+
+## 🌍 Encuéntrame en:
+Aquí están mis redes sociales y otros enlaces donde puedes conectarte conmigo:
+
+- 🌐 [Mi sitio web/portafolio](https://web-production-df87.up.railway.app/)
+- 💼 [LinkedIn](manuel-alejandro-mejías-puebla-175005283)
+
+---
+
+Gracias por visitar mi perfil, ¡espero que te guste y no dudes en conectar conmigo! 😄
+
