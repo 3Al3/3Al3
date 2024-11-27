@@ -20,7 +20,7 @@ Aquí te dejo las tecnologías y herramientas con las que trabajo, organizadas e
 - 🚀 **Docker**
 
 ### Otros:
-- 🤖 **Machine Learning**, **AI**, **TensorFlow**
+- 🤖 **Web Scraping**
 
 ## 🌟 Proyectos Destacados:
 Aquí te muestro algunos de mis proyectos más interesantes que puedes revisar y en los que puedes colaborar:
