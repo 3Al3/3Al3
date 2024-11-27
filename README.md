@@ -33,11 +33,6 @@ Aquí te muestro algunos de mis proyectos más interesantes que puedes revisar y
 ### 📊 Lenguajes que más uso:
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=3Al3&layout=compact&theme=radical)
 
-## 🔥 Contribuciones Recientes:
-Aquí puedes ver las contribuciones recientes que he realizado a proyectos de código abierto o mis propios proyectos.
-
-![Actividad en GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=3Al3&theme=github)
-
 ## 🌍 Encuéntrame en:
 Aquí están mis redes sociales y otros enlaces donde puedes conectarte conmigo:
 
