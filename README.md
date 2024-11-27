@@ -1,5 +1,5 @@
 
-# ¡Hola, soy [Manuel Mejías] 👋
+# ¡Hola, soy Manuel Mejías👋
 
 Soy un desarrollador apasionado por [tu área de interés]. Me encanta trabajar en proyectos de [temática], y siempre estoy aprendiendo nuevas tecnologías.
 
@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por [tu área de interés]. Me encanta trabajar 
 - [Proyecto 2](link)
 
 ## Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=3Al3&show_icons=true&hide_title=true)
 
 ## Encuéntrame en:
 - [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-mej%C3%ADas-puebla-175005283/)
