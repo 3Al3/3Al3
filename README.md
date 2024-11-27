@@ -37,7 +37,7 @@ Aquí te muestro algunos de mis proyectos más interesantes que puedes revisar y
 Aquí están mis redes sociales y otros enlaces donde puedes conectarte conmigo:
 
 - 🌐 [Mi sitio web/portafolio](https://web-production-df87.up.railway.app/)
-- 💼 [LinkedIn](manuel-alejandro-mejías-puebla-175005283)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-mej%C3%ADas-puebla-175005283/)
 
 ---
 
