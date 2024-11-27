@@ -1,6 +1,6 @@
 # ¡Hola, soy Manuel Alejandro! 👋
 
-Soy un desarrollador apasionado por el _desarrollo web_. Actualmente, estoy aprendiendo nuevos lenguajes como _Golang_.
+Soy un desarrollador apasionado por el __desarrollo web__. Actualmente, estoy aprendiendo nuevos lenguajes como __Golang__.
 
 ## 🚀 Acerca de mí:
 - 💻 Trabajo principalmente con Django.
