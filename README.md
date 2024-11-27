@@ -25,20 +25,6 @@ Aquí te dejo las tecnologías y herramientas con las que trabajo, organizadas e
 ## 🌟 Proyectos Destacados:
 Aquí te muestro algunos de mis proyectos más interesantes que puedes revisar y en los que puedes colaborar:
 
-- **[Nombre del Proyecto 1](enlace)**: Descripción breve de lo que hace el proyecto.  
-  - **Tecnologías**: [React](https://reactjs.org/), [Node.js](https://nodejs.org/).
-  - **Estado**: Activo / En desarrollo.
-  - **Contribuir**: [Instrucciones para contribuir](link).
-  
-- **[Nombre del Proyecto 2](enlace)**: Descripción breve del proyecto y qué lo hace especial.  
-  - **Tecnologías**: [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/).
-  - **Estado**: Completo / En producción.
-
-- **[Nombre del Proyecto 3](enlace)**: Una pequeña descripción.  
-  - **Tecnologías**: [Vue.js](https://vuejs.org/), [Firebase](https://firebase.google.com/).
-  - **Estado**: Activo / En desarrollo.
-  - **Contribuir**: [Cómo contribuir](link).
-
 ### 🔥 Últimas Actividades en GitHub:
 (¡Este es un resumen visual de tu actividad!)
 
