@@ -1,18 +1,15 @@
 
 # ¡Hola, soy Manuel Mejías👋
 
-Soy un desarrollador apasionado por [tu área de interés]. Me encanta trabajar en proyectos de [temática], y siempre estoy aprendiendo nuevas tecnologías.
+Soy un programador apasionado por la tecnología con experiencia en varios lenguajes de programación y tecnologías. A lo largo de mis estudios y proyectos personales, he tenido la oportunidad de desarrollar habilidades en desarrollo web, programación orientada a objetos, y automatización de procesos.
 
 ## Tecnologías que uso:
 - JavaScript
 - Python
-- React
-- Node.js
+- Django
+- WagtailCMS
 - Docker
 
-## Proyectos destacados:
-- [Proyecto 1](link)
-- [Proyecto 2](link)
 
 ## Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=3Al3&show_icons=true&hide_title=true)
